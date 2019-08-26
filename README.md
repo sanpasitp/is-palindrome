@@ -6,6 +6,8 @@ For example,
 - abcba >> is palindrome
 - abcxy >> is NOT palindrome
 
+See definition here: https://en.wikipedia.org/wiki/Palindrome
+
 # Input Constraints
 - Phrases or sentences are possible.
 - Input with space is accepted.
